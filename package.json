@@ -1,14 +1,15 @@
 {
-  "name": "testjs",
+  "name": "node-tdd-sample",
   "version": "1.0.0",
-  "description": "versión test js",
+  "description": "Ejemplo de Desarrollo Guiado por Test en Node JS",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Pedro",
-  "license": "ISC",
+  "author": "Pedro Prieto Alarcón",
+  "license": "MIT",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   }
 }
