@@ -1,5 +1,5 @@
 {
-  "name": "node-tdd-sample",
+  "name": "tdd-node-sample",
   "version": "1.0.0",
   "description": "Ejemplo de Desarrollo Guiado por Test en Node JS",
   "main": "index.js",
