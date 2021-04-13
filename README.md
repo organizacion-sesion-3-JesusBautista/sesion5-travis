@@ -2,6 +2,9 @@
 
 Fuente: https://www.taniarascia.com/unit-testing-in-javascript/
 
+## Ejecución de tests en Travis
+El fichero `.travis.yml` contiene la configuración necesaria para activar la acción de ejecución de tests.
+
 ## Instalación de Node
 Disponible en https://nodejs.org/es/
 
