@@ -4,13 +4,23 @@ var suma = function suma (a, b) {
 };
 
 /* Función resta */
-var resta = function suma (a, b) {
+var resta = function resta (a, b) {
 	return a - b;	
+};
+
+var par = function es_par (a) {
+	
+		if(a % 2 == 0) {
+		  return true;
+		}else{
+			return false;
+		}
 };
 
 /* Exportación de funciones */
 
 module.exports = {
 	suma,
-	resta
+	resta,
+	par
 }
