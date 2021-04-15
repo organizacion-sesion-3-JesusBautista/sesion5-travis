@@ -8,7 +8,7 @@ var resta = function resta (a, b) {
 	return a - b;	
 };
 
-var par = function es_par (a) {
+var par = function par (a) {
 	
 		if(a % 2 == 0) {
 		  return true;
