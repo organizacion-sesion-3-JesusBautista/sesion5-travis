@@ -9,7 +9,7 @@ var resta = function suma (a, b) {
 };
 
 /* Exportación de funciones */
-// bla bla 
+
 module.exports = {
 	suma,
 	resta
