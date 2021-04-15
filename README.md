@@ -1,9 +1,14 @@
+## Modificado y probado por Jesus Bautista 
+[![Build Status](https://travis-ci.com/organizacion-sesion-3-JesusBautista/sesion5-travis.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-JesusBautista/sesion5-travis)
+
 # Ejemplo proyecto TDD NodeJS
 
 Fuente: https://www.taniarascia.com/unit-testing-in-javascript/
 
 ## Ejecución de tests en Travis
 El fichero `.travis.yml` contiene la configuración necesaria para activar la acción de ejecución de tests.
+
+
 
 ## Instalación de Node
 Disponible en https://nodejs.org/es/
