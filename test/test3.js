@@ -7,8 +7,8 @@ var should = require('should');
 var operaciones = require('../operations.js');
 
 // Test
-it('comprobar función es_par', function() {
-  operaciones.es_par.should.be.a.Function();
+it('comprobar función par', function() {
+  operaciones.par.should.be.a.Function();
   should.equal(operaciones.par(4), true);
   should.equal(operaciones.par(1), false);
 	should.equal(operaciones.par(3), false);
